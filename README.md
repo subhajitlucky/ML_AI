@@ -1,4 +1,4 @@
-# 🚀 60-Day AI Engineer Roadmap
+# 🚀 AI Engineer Roadmap
 
 Welcome to my journey to become an AI Engineer! This repository documents my progress through a comprehensive 60-day roadmap that combines AI/ML skills with job-readiness practices.
 
